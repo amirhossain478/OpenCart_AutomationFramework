@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 7.252 s <<< FAILURE! - in TestSuite
+testCase.TC_001_AccountRegistration.test_account_Registration  Time elapsed: 0.579 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at testCase.TC_001_AccountRegistration.test_account_Registration(TC_001_AccountRegistration.java:81)
+
+testCase.TC_001_AccountRegistration.test_account_Registration  Time elapsed: 0.178 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at testCase.TC_001_AccountRegistration.test_account_Registration(TC_001_AccountRegistration.java:81)
+
+testCase.TC_001_AccountRegistration.test_account_Registration  Time elapsed: 0.039 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at testCase.TC_001_AccountRegistration.test_account_Registration(TC_001_AccountRegistration.java:81)
+
